@@ -127,5 +127,10 @@ nohup>run0.05.log python -u run_instruct_following.py \
 ## Citation
 
 ```
-
+@article{zeng2025order,
+  title={Order Matters: Investigate the Position Bias in Multi-constraint Instruction Following},
+  author={Zeng, Jie and He, Qianyu and Ren, Qingyu and Liang, Jiaqing and Xiao, Yanghua and Zhou, Weikang and Sun, Zeye and Yu, Fei},
+  journal={arXiv preprint arXiv:2502.17204},
+  year={2025}
+}
 ```
