@@ -15,8 +15,7 @@ instruction following**. Through our experiments, we have the following findings
   - The "Hard-to-easy" constraint order induces the LLM to pay more attention to the constraint part in the multi-constraint instructions.
   - The LLM’s performance on various constraints is strongly correlated with its attention patterns.
 
-
-![图片14](https://github.com/user-attachments/assets/d6c641de-60df-4d93-9ba4-515929b4e1b4)
+![image](https://github.com/user-attachments/assets/5c5382db-574a-4884-bc48-c5b3e4aa883e)
 
 
 ## 🔥Updates
